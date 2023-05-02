@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>935217405354-tt84o9e7dq537votbh5he3k62u6f5ug2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.935217405354-tt84o9e7dq537votbh5he3k62u6f5ug2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgF1GLKzqx4T--YZcs40jsDW0FIOTUL8A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>935217405354</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example</string>
+	<key>PROJECT_ID</key>
+	<string>mylifeeq-e0190</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mylifeeq-e0190.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:935217405354:ios:31314ae5b3425a6a375fd3</string>
+</dict>
+</plist>

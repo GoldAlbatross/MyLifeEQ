@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935217405354",
+    "project_id": "mylifeeq-e0190",
+    "storage_bucket": "mylifeeq-e0190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935217405354:android:ae8a018d673b4fca375fd3",
+        "android_client_info": {
+          "package_name": "com.example.my_life_eq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935217405354-jmjcan41i1af4f39pcu6kqkjbhnh153b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrXxyMF-BFN_943l4iY4L8lGzjs4Et4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935217405354-jmjcan41i1af4f39pcu6kqkjbhnh153b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
