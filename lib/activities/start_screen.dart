@@ -10,17 +10,17 @@ class StartScreen extends StatefulWidget {
 
 class _StartScreenState extends State<StartScreen> {
 
-  final key = 'BaseList';
+  final key = 'Dima_BaseList';
   final List<String> toDoList = [
-    'took a step towards my health',
-    'took a step towards my goal',
-    'added a little bit of fun',
-    'added a little bit of study',
-    'helped someone in need',
-    'experienced happiness today',
-    'lazy day'
+    'step to my health',
+    'step to my goal',
+    'little bit of fun',
+    'little bit of study',
+    'helped someone',
+    'was happy',
+    'today lazy day'
   ];
-  final date = DateTime.now().toString().substring(0, 10);
+  final date = 'Dima${DateTime.now().toString().substring(0, 10)}';
   bool isFirstStart = true;
 
   void initFirebase() async {

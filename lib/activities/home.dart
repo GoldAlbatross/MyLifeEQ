@@ -11,7 +11,7 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
 
   final String blocks = 'Gathered Blocks';
-  final date = DateTime.now().toString().substring(0, 10);
+  final date = 'Dima${DateTime.now().toString().substring(0, 10)}';
 
   void incrementValue(String key) async {
     var snapshot = await FirebaseFirestore.instance.collection(key).doc(key).get();
@@ -21,8 +21,6 @@ class _HomeState extends State<Home> {
           .collection(key)
           .doc(key)
           .set({key: num + 1}, SetOptions(merge: true));
-      print('++++incrementValue: $key++++');
-      print('++++num: $num++++');
     }
   }
 
